@@ -45,3 +45,7 @@ http://127.0.0.1:8000/admin
 ##########
 
 python manage.py startapp accounts
+
+
+############
+for templates, we could create a main_template so that we don't have to repeat html scripts for different web page. 
