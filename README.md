@@ -8,3 +8,4 @@ Inventory system management for a user; Relational/ Non-Relational Database & SQ
 - URL routing and views
 - django templates and template inheriting
 - Using Boostrap
+- django static files
