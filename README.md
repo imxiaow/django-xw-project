@@ -9,3 +9,4 @@ Inventory system management for a user; Relational/ Non-Relational Database & SQ
 - django templates and template inheriting
 - Using Boostrap
 - django static files
+- django admin panel and models

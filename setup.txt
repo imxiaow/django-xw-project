@@ -49,3 +49,34 @@ python manage.py startapp accounts
 
 ############
 for templates, we could create a main_template so that we don't have to repeat html scripts for different web page. 
+
+
+
+#########
+migrate for database setup command:
+python manage.py migrate
+
+
+then, use the django admin panel to view the database that setup. 
+you need to create a user to view this. 
+
+python manage.py createsuperuser
+
+username: miaow
+email:xiaow.wang@mail.utoronto.ca
+passward:
+
+
+
+login into the admin panel:
+python manage.py rumserver
+
+go to the port 8000 with /admin to login with previous username&password
+
+
+
+before add the customer to the database, we need to turn off the server, and run:
+
+python manage.py makemigrations
+
+this is prep for migration
