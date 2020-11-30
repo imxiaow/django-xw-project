@@ -16,7 +16,8 @@ Inventory system management for a user; Relational/ Non-Relational Database & SQ
 - Dynamic URL Routing & Templates for customer profile page
 - CRUD (CReate and Update & Delete)operations with Django model forms.
 - Inline Formset 
-- Filter Form Table Search
+- Multi parameter search form with django filter form.
+
 
 
 
