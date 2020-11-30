@@ -80,3 +80,10 @@ before add the customer to the database, we need to turn off the server, and run
 python manage.py makemigrations
 
 this is prep for migration
+
+
+#
+###############
+# 
+Use this command to start working with the database:
+python manage.py shell

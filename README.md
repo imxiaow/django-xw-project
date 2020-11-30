@@ -12,3 +12,6 @@ Inventory system management for a user; Relational/ Non-Relational Database & SQ
 - django admin panel and models
 - Implementing One To Many & Many to Many relationships in Django
 - Django database queryesets
+
+
+- Tutorial video from : https://www.youtube.com/watch?v=xv_bwpA_aEA&list=PL-51WBLyFTg2vW-_6XBoUpE7vpmoR3ztO
