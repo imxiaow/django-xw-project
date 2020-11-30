@@ -10,3 +10,4 @@ Inventory system management for a user; Relational/ Non-Relational Database & SQ
 - Using Boostrap
 - django static files
 - django admin panel and models
+- Database Relationships | One To Many & Many to Many
