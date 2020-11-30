@@ -14,7 +14,7 @@ Inventory system management for a user; Relational/ Non-Relational Database & SQ
 - Django database queryesets
 - Rendering data from view to template using built in django template tags
 - Dynamic URL Routing & Templates for customer profile page
-
+- CRUD (CReate and Update & Delete)operations with Django model forms.
 
 
 
