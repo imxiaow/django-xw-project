@@ -62,7 +62,7 @@ you need to create a user to view this.
 
 python manage.py createsuperuser
 
-username: miaow
+username: xiaow
 email:xiaow.wang@mail.utoronto.ca
 passward:
 
