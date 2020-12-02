@@ -88,6 +88,8 @@ this is prep for migration
 Use this command to start working with the database:
 python manage.py shell
 
+type in the shell:
+from accounts.models import *  
 
 
 
