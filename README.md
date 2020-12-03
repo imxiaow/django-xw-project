@@ -19,6 +19,6 @@ Inventory system management for a user; Relational/ Non-Relational Database & SQ
 - Multi parameter search form with django.
 - User Registration and Login Authentication. 
 - User Profile With One To One Relationship
-
+- Image File Upload to User Profile Model
 
 - Tutorial video from : https://www.youtube.com/watch?v=xv_bwpA_aEA&list=PL-51WBLyFTg2vW-_6XBoUpE7vpmoR3ztO
