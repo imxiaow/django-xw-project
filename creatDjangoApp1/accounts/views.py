@@ -111,6 +111,14 @@ def userPage(request):
 
 
 @login_required(login_url='login')
+@allowed_users(allowed_roles =['customer'])
+def accountSetting(request):
+	context = {}
+	return render(request, 'accounts/account_setting.html', context)
+
+
+
+@login_required(login_url='login')
 @allowed_users(allowed_roles =['admin'])
 def products(request):
 	# this is a view 
