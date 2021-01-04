@@ -1,0 +1,88 @@
+html {
+	scroll-behavior: smooth;
+	font-family: 'Lato', sans-serif; 
+	overflow-x: hidden; 
+	width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+
+.page-content{
+	flex-grow : 0!important;
+}
+
+body{
+	background-color:white;
+	font-family: 'Lato', sans-serif;
+	overflow-x: hidden; 
+	width: 100%;
+    height: 100%;
+    margin: 0px;
+	padding: 0px;
+	min-height: 100vh;
+	/* mobile viewport bug fix */
+	min-height: -webkit-fill-available;
+	
+}
+
+.image-container{
+	text-align: center;
+	background-color: rgba(255, 255, 255, 0);
+	margin: 1%;
+}
+
+.image-container img {
+	width: 80px;
+	height: 80px;
+}
+
+.navbar-toggler{
+	background-color: #7eb444;
+}
+  
+footer {
+    width: auto;
+    height: auto;
+    background-color: black;
+    margin: 0 auto;
+    color: rgba(235, 235, 235, 0.904);
+	font-size: 18px;
+	overflow: hidden
+}
+ 
+footer>div {
+    width: auto;
+    height: auto;
+    display: flex;
+    justify-content: space-around;
+    margin: 0 auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+ 
+footer div div {
+    width: auto;
+    height: auto;
+}
+ 
+footer div div:last-child {
+    width: auto;
+    height: auto;
+}
+ 
+footer div div p:first-child {
+    color: rgba(235, 235, 235, 0.904);
+}
+
+.footer-copyright{
+  font-size: 13px;
+  text-align: center;
+
+}
+
+.wechatQR {
+  width: 18%;
+  color: rgba(235, 235, 235, 0.904);
+
+}
